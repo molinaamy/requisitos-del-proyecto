@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content:left;
+    background-color:#4c54c8c9;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icono {
+    display: flex;
+    position: relative;
+    left: 20px;
+    padding: 33px;
+    
+}
+.navbar2 {
+    display: flex;
+    position: relative;
+    left: 830px;
+}
+.navbar a {
+    color: rgb(255, 255, 255);
+    padding: 30px 55px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #7d84df;
+}
